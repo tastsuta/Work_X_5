@@ -10,4 +10,4 @@ Work Work Work Work Work ~
 
 ## My Portfolios
 
-Please see my Google Data Studio dashboard .[here].(https://datastudio.google.com/reporting/8b5e72b2-1f21-45ee-ba8e-da368cde5301)
+Please see my Google Data Studio dashboard .[here].(https://github.com/tastsuta/ppmmetas/blob/main/Sales_Report_Batch_5.pdf)
